@@ -34,7 +34,7 @@ Matplotlib 3.3.3
 Seaborn 0.11.0
 Scikit-Learn 0.24.0
 ## Author
-Marko Zelenović
+Mladen Zelenović
 
 ### License
 This project is open-source and available under the MIT License.
